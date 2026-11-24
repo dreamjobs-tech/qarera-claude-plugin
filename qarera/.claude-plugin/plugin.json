@@ -1,0 +1,24 @@
+{
+  "name": "qarera",
+  "displayName": "Qarera - Job Search & Resumes",
+  "version": "1.0.0",
+  "description": "Search live jobs ranked against your resume, tailor your resume and cover letter for a role, and track every application, from your Qarera account.",
+  "author": {
+    "name": "Qarera",
+    "email": "contact@qarera.com",
+    "url": "https://www.qarera.com"
+  },
+  "homepage": "https://www.qarera.com/claude-connector",
+  "privacyPolicyUrl": "https://www.qarera.com/privacy",
+  "repository": "https://github.com/dreamjobs-tech/qarera-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "jobs",
+    "job search",
+    "resume",
+    "cover letter",
+    "application tracker",
+    "careers"
+  ],
+  "mcpServers": "./.mcp.json"
+}

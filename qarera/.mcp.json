@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qarera": {
+      "type": "http",
+      "url": "https://mcp.qarera.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "qarera",
+  "description": "Qarera's plugin for Claude: job search with resume match scores, resume tailoring and an application tracker.",
+  "owner": {
+    "name": "Qarera",
+    "email": "contact@qarera.com"
+  },
+  "plugins": [
+    {
+      "name": "qarera",
+      "source": "./qarera",
+      "description": "Search live jobs ranked against your resume, tailor your resume and cover letter, and track every application."
+    }
+  ]
+}
