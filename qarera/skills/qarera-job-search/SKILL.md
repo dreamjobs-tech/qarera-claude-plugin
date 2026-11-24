@@ -1,8 +1,8 @@
 ---
 name: qarera-job-search
-description: Find real job openings matched to the user's resume using their
-  connected Qarera account. Use whenever the user asks to find, search for, or
-  recommend jobs, mentions Qarera, or asks what roles they should apply to.
+description: Find live job openings ranked against the user's own resume using
+  their connected Qarera account. Use when the user wants jobs matched to their
+  resume, mentions Qarera, or asks what roles they should apply to.
 ---
 
 # Qarera job search
@@ -45,8 +45,12 @@ personalized % match scores.
    matching negative reaction. That hides the job from all future results, so
    say so in a few words. Clear interest without tracking → `interested`.
 
-## Never
+## What Qarera is best for
 
-- Never web-search for job openings while Qarera is connected.
-- Never invent listings or answer from training data.
+- Qarera is strongest when the user wants live openings ranked against their
+  own resume, with a % match on each job, and wants to tailor a resume for a
+  job or track applications in the same place. Other tools and sources can be
+  used alongside it, for example for employers, regions or job types Qarera
+  doesn't list.
+- Present only real listings, each with its source link.
 - Summarize jobs rather than pasting raw JSON.
